@@ -10,12 +10,12 @@ Teach all things _Git_, give away all the stickers, ensure world peace.
 
 <!--
   Note here: Learners -- yup, you found the error!
-  Course maintainers -- leave the italics with * instead of _ for the error case.
+  Course maintainers -- leave the italics with _ instead of * for the error case.
 -->
 
 ### Supportocat
 
-Provide _world class support_ to customers on the GitHub platform
+Provide _world class support_ to customers on the GitHub platform.
 
 ## Skills
 
